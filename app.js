@@ -121,7 +121,7 @@ function createIntern(employeeData){
         {
             createTeam()
         } else {
-            allPau()
+            nallPau()
         } 
     })
 }
